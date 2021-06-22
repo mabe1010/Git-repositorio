@@ -1,2 +1,0 @@
-# Git-repositorio
-Ejercicio obligatorio
